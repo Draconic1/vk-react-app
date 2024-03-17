@@ -1,6 +1,7 @@
 # Запуск приложения
 
-```cd test task
+```
+cd test task
 npm run dev
 ```
 
